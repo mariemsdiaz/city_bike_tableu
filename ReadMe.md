@@ -19,12 +19,12 @@ member_casual: Indicates whether the rider is a member or a casual user.
 ### ETL Pipeline 
 The analysis includes several key components:
 
-- Data Cleaning:
+#### Data Cleaning:
 
 Data entry errors have been removed, and columns are correctly typed. Null values have been handled appropriately to ensure the accuracy of the analysis. Data types have been changed for conversion purposes. 
 Time of ride was removed to focus only only on date for the purpose of reducing the data in order to manipulate it more easily in Tableau. 
 
-- Visualizations:
+#### Visualizations:
 
 A static map showing bike stations with visual indications of popularity, station name and being able to switch between years.
 Line graphs showing ridership growth for the years 2023 and 2024.
@@ -32,7 +32,7 @@ A bar chart comparing the top ten and bottom ten bike stations.
 A visualization of the most common routes taken by users.
 Circle graphs showing member vs. casual riders and prefered days of travel. 
 
-- Trends and Insights:
+#### Trends and Insights:
 
 Analysis describing ridership behavior and highlighting trends in bike usage.
 Insights into the most popular routes and how station popularity varies within the month of August.
