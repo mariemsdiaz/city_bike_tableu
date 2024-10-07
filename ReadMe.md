@@ -3,7 +3,8 @@
 ## Project Overview
 This project analyzes city bike usage data from 2023 and 2024 for the month of August. Focusing on ridership trends, station popularity, and common routes. The analysis aims to provide insights for city officials to enhance bike-sharing programs and improve urban mobility.
 
-TABLEU PUBLIC WORKBOOK LINK 
+[TABLE PUBLIC WORKBOOK](https://public.tableau.com/views/Bike_Ride_NJ_NYC/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ### Data Sources
 The analysis uses two CSV files containing bike usage data for the years 2023 and 2024. The primary fields of interest include:
